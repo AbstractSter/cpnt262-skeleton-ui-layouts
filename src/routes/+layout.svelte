@@ -9,18 +9,17 @@
 		<!-- App Bar -->
 		<AppBar>
 			<svelte:fragment slot="lead">
-				<!-- ToDo: Change this to a link back to home page -->
 				<a href="http://localhost:5173/" class="text-xl uppercase"><strong>Skeleton</strong></a>
 			</svelte:fragment>
 			<svelte:fragment slot="trail">
 				<!-- Change these links and text -->
 				<a
 					class="btn btn-sm variant-ghost-surface"
-					href="https://discord.gg/EXqV7W8MtY"
+					href="/gallery.page.svelte"
 					target="_blank"
 					rel="noreferrer"
 				>
-					Discord
+					Gallery
 				</a>
 				<a
 					class="btn btn-sm variant-ghost-surface"
