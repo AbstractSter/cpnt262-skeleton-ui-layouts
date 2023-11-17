@@ -16,16 +16,12 @@
 				<a
 					class="btn btn-md variant-ghost-surface"
 					href="/gallery"
-					target="_blank"
-					rel="noreferrer"
 				>
 					Gallery
 				</a>
 				<a
 					class="btn btn-md variant-ghost-surface"
 					href="/blog"
-					target="_blank"
-					rel="noreferrer"
 				>
 					Blog
 				</a>
