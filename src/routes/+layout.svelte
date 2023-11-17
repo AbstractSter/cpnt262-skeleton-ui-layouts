@@ -15,7 +15,7 @@
 				<!-- Change these links and text -->
 				<a
 					class="btn btn-md variant-ghost-surface"
-					href="/gallery.page.svelte"
+					href="/gallery"
 					target="_blank"
 					rel="noreferrer"
 				>
@@ -23,7 +23,7 @@
 				</a>
 				<a
 					class="btn btn-md variant-ghost-surface"
-					href="/blog.page.svelte"
+					href="/blog"
 					target="_blank"
 					rel="noreferrer"
 				>

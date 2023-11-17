@@ -1,27 +1,24 @@
 <!-- YOU CAN DELETE EVERYTHING IN THIS PAGE -->
-
+<h2 class="h2 flex justify-center">Welcome to my abomination.</h2>
 <div class="container h-full mx-auto flex justify-center items-center">
 	<div class="space-y-10 text-center flex flex-col items-center">
 		<div class="card">
-			<header class="card-header">This is the header</header>
-			<section class="p-4">This is some content</section>
-				<div class="card p-4">This is a card
-					<a href="/" class="card p-4">Link</a>
-				</div>
-				<ul class="list">
+			<header class="card-header text-3xl">This is the card title</header>
+			<section class="p-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, voluptatem distinctio quam totam facilis vel iure quaerat ab, cum ipsam labore perspiciatis? Distinctio, officiis perferendis.</section>
+			<img src="images/majestic.jpg" alt="Sterling riding a cast iron mountain goat">
+				<ul class="list flex justify-center">
 					<li>
-						<span class="justify-self-auto">List item text</span>
+						<span></span>
 					</li>
 				</ul>
-			<footer class="card-footer">This is the footer</footer>
+			
 		</div>
-		<h2 class="h2">Welcome to my abomination.</h2>
 		<!-- Animated Logo -->
 		<figure>
 			<section class="img-bg" />
 			<svg
 				class="fill-token -scale-x-[100%]"
-				xmlns="http://www.w3.org/2000/svg"
+				src="images/majestic.jpg"
 				viewBox="0 0 200 200"
 			>
 				<path
@@ -32,7 +29,7 @@
 		</figure>
 	</div>
 </div>
-
+<footer class="card-footer flex justify-center">This is the footer</footer>
 <style lang="postcss">
 	figure {
 		@apply flex relative flex-col;
