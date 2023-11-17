@@ -11,11 +11,10 @@
 						<span></span>
 					</li>
 				</ul>
-			
 		</div>
 		<!-- Animated Logo -->
 		<figure>
-			<section class="img-bg" />
+			<!-- <section class="img-bg" /> -->
 			<svg
 				class="fill-token -scale-x-[100%]"
 				src="images/majestic.jpg"
