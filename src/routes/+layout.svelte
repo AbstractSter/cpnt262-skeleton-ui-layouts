@@ -9,12 +9,12 @@
 		<!-- App Bar -->
 		<AppBar>
 			<svelte:fragment slot="lead">
-				<a href="http://localhost:5173/" class="text-xl uppercase"><strong>Skeleton</strong></a>
+				<a href="http://localhost:5173/" class="text-4xl uppercase"><strong>SS</strong></a>
 			</svelte:fragment>
 			<svelte:fragment slot="trail">
 				<!-- Change these links and text -->
 				<a
-					class="btn btn-sm variant-ghost-surface"
+					class="btn btn-md variant-ghost-surface"
 					href="/gallery.page.svelte"
 					target="_blank"
 					rel="noreferrer"
@@ -22,20 +22,12 @@
 					Gallery
 				</a>
 				<a
-					class="btn btn-sm variant-ghost-surface"
-					href="https://twitter.com/SkeletonUI"
+					class="btn btn-md variant-ghost-surface"
+					href="/blog.page.svelte"
 					target="_blank"
 					rel="noreferrer"
 				>
-					Twitter
-				</a>
-				<a
-					class="btn btn-sm variant-ghost-surface"
-					href="https://github.com/skeletonlabs/skeleton"
-					target="_blank"
-					rel="noreferrer"
-				>
-					GitHub
+					Blog
 				</a>
 			</svelte:fragment>
 		</AppBar>

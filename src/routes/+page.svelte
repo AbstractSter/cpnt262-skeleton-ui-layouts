@@ -15,7 +15,7 @@
 				</ul>
 			<footer class="card-footer">This is the footer</footer>
 		</div>
-		<h2 class="h2">Welcome to Skeleton.</h2>
+		<h2 class="h2">Welcome to my abomination.</h2>
 		<!-- Animated Logo -->
 		<figure>
 			<section class="img-bg" />
