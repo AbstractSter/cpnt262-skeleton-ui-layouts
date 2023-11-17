@@ -9,9 +9,11 @@
 		<!-- App Bar -->
 		<AppBar>
 			<svelte:fragment slot="lead">
-				<strong class="text-xl uppercase">Skeleton</strong>
+				<!-- ToDo: Change this to a link back to home page -->
+				<a href="http://localhost:5173/" class="text-xl uppercase"><strong>Skeleton</strong></a>
 			</svelte:fragment>
 			<svelte:fragment slot="trail">
+				<!-- Change these links and text -->
 				<a
 					class="btn btn-sm variant-ghost-surface"
 					href="https://discord.gg/EXqV7W8MtY"
@@ -39,6 +41,9 @@
 			</svelte:fragment>
 		</AppBar>
 	</svelte:fragment>
+
+	<!-- Change the class of the sidebar to be hidden on small screens -->
+	<svelte:fragment slot="sidebarLeft">Sidebar Left</svelte:fragment>
 	<!-- Page Route Content -->
 	<slot />
 </AppShell>

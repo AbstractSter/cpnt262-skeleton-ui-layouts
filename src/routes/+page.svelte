@@ -2,6 +2,19 @@
 
 <div class="container h-full mx-auto flex justify-center items-center">
 	<div class="space-y-10 text-center flex flex-col items-center">
+		<div class="card">
+			<header class="card-header">This is the header</header>
+			<section class="p-4">This is some content</section>
+				<div class="card p-4">This is a card
+					<a href="/" class="card p-4">Link</a>
+				</div>
+				<ul class="list">
+					<li>
+						<span class="justify-self-auto">List item text</span>
+					</li>
+				</ul>
+			<footer class="card-footer">This is the footer</footer>
+		</div>
 		<h2 class="h2">Welcome to Skeleton.</h2>
 		<!-- Animated Logo -->
 		<figure>
