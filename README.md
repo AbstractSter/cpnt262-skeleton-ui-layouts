@@ -8,9 +8,9 @@
 
  ### Helpful Search Terms
 - Using only single words when searching Tailwindcss
-      - Ex. searching "padding" instead of "card padding" or "image padding"
+- Ex. searching "padding" instead of "card padding" or "image padding"
 - Giving Chat GPT very specific code and then asking it very specific questions about that code
-      - Ex. Copy and pasting a small section of code and/or error message and then asking Chat GPT to explain a certain line or syntax within that code snippet
+- Ex. Copy and pasting a small section of code and/or error message and then asking Chat GPT to explain a certain line or syntax within that code snippet
 
 ### Attributions
 - [Tailwindcss](https://tailwindcss.com/docs/padding)
