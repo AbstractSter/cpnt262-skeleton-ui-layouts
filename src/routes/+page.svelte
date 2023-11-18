@@ -3,7 +3,7 @@
 <div class="container h-full mx-auto flex justify-center items-center">
 	<div class="space-y-10 text-center flex flex-col items-center">
 		<div class="card">
-			<header class="card-header text-3xl">This is the card title</header>
+			<header class="card-header text-3xl pr-50">This is the card title</header>
 			<section class="p-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, voluptatem distinctio quam totam facilis vel iure quaerat ab, cum ipsam labore perspiciatis? Distinctio, officiis perferendis.</section>
 			<img src="images/majestic.jpg" alt="Sterling riding a cast iron mountain goat">
 				<ul class="list flex justify-center">
